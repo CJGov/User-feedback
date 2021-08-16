@@ -1,0 +1,49 @@
+{
+  "_id": "page.tell-us-about",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.tell-us-about--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select all that apply",
+      "items": [
+        {
+          "_id": "page.tell-us-about--checkboxes--checkbox.auto_name__6",
+          "_type": "checkbox",
+          "hint": "How did we do?",
+          "label": "Staff",
+          "name": "auto_name__6"
+        },
+        {
+          "_id": "page.tell-us-about--checkboxes--checkbox.auto_name__7",
+          "_type": "checkbox",
+          "hint": "Was the information provided correct and useful?",
+          "label": "Information and guidance",
+          "name": "auto_name__7"
+        },
+        {
+          "_id": "page.tell-us-about--checkboxes--checkbox.auto_name__8",
+          "_type": "checkbox",
+          "hint": "Was the process smooth or were there issues?",
+          "label": "The process",
+          "name": "auto_name__8"
+        },
+        {
+          "_id": "page.tell-us-about--checkboxes--checkbox.auto_name__9",
+          "_type": "checkbox",
+          "label": "Something else",
+          "name": "auto_name__9"
+        }
+      ],
+      "legend": "What do you want to tell us about?"
+    }
+  ],
+  "enableSteps": true,
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "is",
+    "value": "auto_value__6"
+  },
+  "steps": [],
+  "url": "tell-us-about"
+}

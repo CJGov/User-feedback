@@ -1,0 +1,36 @@
+{
+  "_id": "page.What-tell-us-about",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.What-tell-us-about--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.what-tell-us-about--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "hint": "I'm happy with the service I got / I want to tell you somebody did good job",
+          "label": "Compliments",
+          "value": "complaint"
+        },
+        {
+          "_id": "page.what-tell-us-about--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "hint": "I want to make a complaint",
+          "label": "Complaints",
+          "value": "comment"
+        },
+        {
+          "_id": "page.what-tell-us-about--radios.auto_name__1--radio.auto_value__3",
+          "_type": "radio",
+          "hint": "I have suggestion on how you can improve",
+          "label": "Comment",
+          "value": "praise"
+        }
+      ],
+      "legend": "we'd like you to tell us how we're doing",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "What-tell-us-about"
+}

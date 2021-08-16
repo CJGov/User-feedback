@@ -1,0 +1,47 @@
+{
+  "_id": "page.tell-us-about-your-call",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.tell-us-about-your-call--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select all that apply",
+      "items": [
+        {
+          "_id": "page.tell-us-about-your-call--checkboxes--checkbox.auto_name__16",
+          "_type": "checkbox",
+          "hint": "How did we do?",
+          "label": "Staff",
+          "name": "auto_name__16"
+        },
+        {
+          "_id": "page.tell-us-about-your-call--checkboxes--checkbox.auto_name__18",
+          "_type": "checkbox",
+          "hint": "Was the information provided correct and useful?",
+          "label": "Information and guidance",
+          "name": "auto_name__18"
+        },
+        {
+          "_id": "page.tell-us-about-your-call--checkboxes--checkbox.auto_name__19",
+          "_type": "checkbox",
+          "hint": "Was the process smooth or were there issues?",
+          "label": "The process",
+          "name": "auto_name__19"
+        },
+        {
+          "_id": "page.tell-us-about-your-call--checkboxes--checkbox.auto_name__20",
+          "_type": "checkbox",
+          "label": "Something else",
+          "name": "auto_name__20"
+        }
+      ],
+      "legend": "What do you want to tell us about your phone call?"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "is",
+    "value": "auto_value__3"
+  },
+  "url": "tell-us-about-your-call"
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "page.right-person--2",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.right-person--2--text.auto_name__15",
+      "_type": "text",
+      "hint": "Who did you speak when you visited us? (optional)",
+      "label": "We'd like to pass on your feedback to the right person.",
+      "name": "auto_name__15",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "url": "right-person"
+}

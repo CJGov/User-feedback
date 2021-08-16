@@ -1,0 +1,51 @@
+{
+  "_id": "page.how-did-you-contact-us",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.how-did-you-contact-us--radios.auto_name__4",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Phone",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__4",
+          "_type": "radio",
+          "label": "Visited a court or tribunal in person",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__5",
+          "_type": "radio",
+          "label": "Letter, email or posted document",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__6",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__6--text.auto_name__5",
+            "_type": "text",
+            "name": "auto_name__5"
+          },
+          "label": "it's not listed here",
+          "value": "auto_value__6"
+        }
+      ],
+      "legend": "How did you contact us or how did we contact you?",
+      "name": "auto_name__4"
+    }
+  ],
+  "enableSteps": true,
+  "showSteps": false,
+  "steps": [
+    "page.tell-us-about-your-call",
+    "page.tell-us-about-your-visit",
+    "page.tell-us-about"
+  ],
+  "url": "how-did-you-contact-us"
+}

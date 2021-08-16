@@ -1,0 +1,8 @@
+{
+  "_id": "page.check-yor-answers",
+  "_type": "page.summary",
+  "actionType": "confirm",
+  "sendBody": "To send this feedback please click the button below",
+  "sendHeading": "Send us your feedback",
+  "url": "check-yor-answers"
+}
