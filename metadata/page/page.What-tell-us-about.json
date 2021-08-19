@@ -9,7 +9,7 @@
         {
           "_id": "page.what-tell-us-about--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
-          "hint": "I'm happy with the service I got / I want to tell you somebody did good job",
+          "hint": "I'm happy with the service / I want to tell you somebody did a good job",
           "label": "Compliments",
           "value": "complaint"
         },
