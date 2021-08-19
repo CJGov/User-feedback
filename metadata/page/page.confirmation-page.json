@@ -1,7 +1,8 @@
 {
   "_id": "page.confirmation-page",
   "_type": "page.confirmation",
-  "body": "Thank you for contacting us\r\n\r\nThank you for telling us how we did. We’ll use your feedback to understand what we do well and how we can do things better. If we can, we’ll send your comments to the people you talked to.",
+  "body": "Thank you for contacting us\r\n\r\nThank you for telling us how we did. We’ll use your feedback to understand what we do well and how we can do things better. we'll not write back to you but we'll share your thanks with our staff.",
   "heading": "Thank you",
+  "lede": "for your feedback",
   "url": "confirmation-page"
 }

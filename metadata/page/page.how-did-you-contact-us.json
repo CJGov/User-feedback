@@ -30,6 +30,7 @@
           "conditionalComponent": {
             "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__6--text.auto_name__5",
             "_type": "text",
+            "hint": "please enter a brief description.",
             "name": "auto_name__5"
           },
           "label": "it's not listed here",
