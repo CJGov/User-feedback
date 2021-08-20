@@ -10,7 +10,7 @@
         {
           "_id": "page.tell-us-about-your-visit--checkboxes--checkbox.auto_name__10",
           "_type": "checkbox",
-          "hint": "for example, the toilet, heating, wifi or disabled access",
+          "hint": "for e.g. the toilet, heating, wifi or disabled access",
           "label": "Facilities",
           "name": "auto_name__10"
         },
