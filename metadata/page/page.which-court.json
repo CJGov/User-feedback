@@ -3564,7 +3564,7 @@
             "label": "Enter the court or tribunal",
             "name": "auto_name__3",
             "validation": {
-              "required": false
+              "required": true
             }
           },
           "label": "Yes",
