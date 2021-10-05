@@ -9,19 +9,19 @@
         {
           "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__3",
           "_type": "radio",
-          "label": "phone",
+          "label": "Phone",
           "value": "auto_value__3"
         },
         {
           "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__4",
           "_type": "radio",
-          "label": "visited a court or tribunal in person",
+          "label": "Visited a court or tribunal in person",
           "value": "auto_value__4"
         },
         {
           "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__5",
           "_type": "radio",
-          "label": "letter, email or posted a document",
+          "label": "Letter, email or posted a document",
           "value": "auto_value__5"
         },
         {
@@ -33,7 +33,7 @@
             "hint": "please enter a brief description.",
             "name": "auto_name__5"
           },
-          "label": "it's not listed here.",
+          "label": "It's not listed here.",
           "value": "auto_value__6"
         }
       ],

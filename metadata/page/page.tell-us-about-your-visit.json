@@ -10,14 +10,14 @@
         {
           "_id": "page.tell-us-about-your-visit--checkboxes--checkbox.auto_name__10",
           "_type": "checkbox",
-          "hint": "for e.g. the toilet, heating, wifi or disabled access",
+          "hint": "For e.g. the toilet, heating, wifi or disabled access",
           "label": "Facilities",
           "name": "auto_name__10"
         },
         {
           "_id": "page.tell-us-about-your-visit--checkboxes--checkbox.auto_name__11",
           "_type": "checkbox",
-          "hint": "how did we do?",
+          "hint": "How did we do?",
           "label": "Staff",
           "name": "auto_name__11"
         },
