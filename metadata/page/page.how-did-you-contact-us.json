@@ -15,14 +15,38 @@
         {
           "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__4",
           "_type": "radio",
-          "label": "Visited a court or tribunal in person",
+          "label": "In person",
           "value": "auto_value__4"
         },
         {
           "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__5",
           "_type": "radio",
-          "label": "Letter, email or posted a document",
+          "label": "Form",
           "value": "auto_value__5"
+        },
+        {
+          "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__7",
+          "_type": "radio",
+          "label": "Letter",
+          "value": "Letter"
+        },
+        {
+          "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__7--2",
+          "_type": "radio",
+          "label": "Email",
+          "value": "auto_value__7"
+        },
+        {
+          "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__8",
+          "_type": "radio",
+          "label": "Posted document",
+          "value": "auto_value__8"
+        },
+        {
+          "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__9",
+          "_type": "radio",
+          "label": "Social media",
+          "value": "auto_value__9"
         },
         {
           "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__6",
@@ -30,7 +54,7 @@
           "conditionalComponent": {
             "_id": "page.how-did-you-contact-us--radios.auto_name__4--radio.auto_value__6--text.auto_name__5",
             "_type": "text",
-            "hint": "please enter a brief description.",
+            "hint": "Please enter a brief description.",
             "name": "auto_name__5"
           },
           "label": "It's not listed here.",

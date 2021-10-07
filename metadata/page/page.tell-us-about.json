@@ -40,9 +40,29 @@
   ],
   "enableSteps": true,
   "show": {
-    "identifier": "auto_name__4",
-    "operator": "is",
-    "value": "auto_value__5"
+    "any": [
+      {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "auto_value__5"
+      },
+      {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "Letter"
+      },
+      {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "auto_value__7"
+      },
+      {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "auto_value__8"
+      }
+    ],
+    "conditionsType": "any"
   },
   "steps": [],
   "url": "tell-us-about"

@@ -5,10 +5,10 @@
     {
       "_id": "page.more-info--2--textarea.auto_name__17",
       "_type": "textarea",
-      "hint": "The more details you give, the better.",
-      "label": "Please give us more information",
+      "hint": "Give as much detail as you can, including dates if you know them",
+      "label": "Your feedback",
       "name": "auto_name__17"
     }
   ],
-  "url": "more-info"
+  "url": "your-feedback"
 }
