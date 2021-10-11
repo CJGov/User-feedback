@@ -24,7 +24,7 @@
         {
           "_id": "page.tell-us-about-your-call--checkboxes--checkbox.auto_name__19",
           "_type": "checkbox",
-          "hint": "The way your case was handled by out administrative team.",
+          "hint": "The way your case was handled by our administrative team.",
           "label": "Handling your case",
           "name": "auto_name__19"
         },
