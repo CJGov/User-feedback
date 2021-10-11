@@ -31,6 +31,7 @@
         {
           "_id": "page.tell-us-about-your-call--checkboxes--checkbox.auto_name__21",
           "_type": "checkbox",
+          "hint": "How we confirmed who you are and if we kept your information safe.",
           "label": "Safety and security",
           "name": "auto_name__21"
         },
