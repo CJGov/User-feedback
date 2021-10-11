@@ -24,9 +24,15 @@
         {
           "_id": "page.tell-us-about-your-call--checkboxes--checkbox.auto_name__19",
           "_type": "checkbox",
-          "hint": "Was the process smooth or were there issues?",
-          "label": "The process",
+          "hint": "The way your case was handled by out administrative team.",
+          "label": "Handling your case",
           "name": "auto_name__19"
+        },
+        {
+          "_id": "page.tell-us-about-your-call--checkboxes--checkbox.auto_name__21",
+          "_type": "checkbox",
+          "label": "Safety and security",
+          "name": "auto_name__21"
         },
         {
           "_id": "page.tell-us-about-your-call--checkboxes--checkbox.auto_name__20",

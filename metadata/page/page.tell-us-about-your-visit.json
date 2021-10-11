@@ -36,6 +36,13 @@
           "name": "auto_name__13"
         },
         {
+          "_id": "page.tell-us-about-your-visit--checkboxes--checkbox.auto_name__22",
+          "_type": "checkbox",
+          "hint": "The way your case was handled by out administrative team.",
+          "label": "Handling your case",
+          "name": "auto_name__22"
+        },
+        {
           "_id": "page.tell-us-about-your-visit--checkboxes--checkbox.auto_name__14",
           "_type": "checkbox",
           "label": "Other",
