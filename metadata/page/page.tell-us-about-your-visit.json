@@ -45,7 +45,7 @@
         {
           "_id": "page.tell-us-about-your-visit--checkboxes--checkbox.auto_name__14",
           "_type": "checkbox",
-          "label": "Other",
+          "label": "Something else",
           "name": "auto_name__14"
         }
       ],

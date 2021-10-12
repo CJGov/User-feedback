@@ -29,6 +29,13 @@
           "name": "auto_name__8"
         },
         {
+          "_id": "page.tell-us-about--checkboxes--checkbox.auto_name__23",
+          "_type": "checkbox",
+          "hint": "Keeping your information safe",
+          "label": "Safety and security",
+          "name": "auto_name__23"
+        },
+        {
           "_id": "page.tell-us-about--checkboxes--checkbox.auto_name__9",
           "_type": "checkbox",
           "label": "Something else",
@@ -60,6 +67,11 @@
         "identifier": "auto_name__4",
         "operator": "is",
         "value": "auto_value__8"
+      },
+      {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "auto_value__9"
       }
     ],
     "conditionsType": "any"
