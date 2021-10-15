@@ -10,6 +10,7 @@
       "$select": true,
       "_id": "page.court-or-tribunal--autocomplete.auto_name__22",
       "_type": "autocomplete",
+      "hint": "For example, Barnet County Court",
       "items": [
         {
           "$component": true,
@@ -5242,7 +5243,7 @@
           "value": "delete"
         }
       ],
-      "label": "Court or tribunal you was in contact with",
+      "label": "Court or tribunal you were in contact with",
       "label:cy": "Y llys neu'r tribiwnlys yr ydych yn gwneud cwyn amdano",
       "name": "complaint_location"
     },
