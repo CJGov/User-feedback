@@ -66,7 +66,7 @@
     }
   ],
   "enableSteps": true,
-  "showSteps": false,
+  "showSteps": true,
   "steps": [
     "page.tell-us-about-your-call",
     "page.tell-us-about-your-visit",
