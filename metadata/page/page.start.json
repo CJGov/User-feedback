@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "We want to know about your experience at court – good and bad.\r\n\r\n* something you want to complain about\r\n* how we can improve\r\n*  where we got it right\r\n\r\nYour feedback will not affect a court case.",
+  "body": "Tell us what we did well\r\n\r\nWe want to know about your experience with HMCTS.\r\n\r\nYour feedback will not affect your case.\r\n\r\nWe'll not respond to you but we'll pass on your thanks to our colleagues.\r\n",
   "heading": "User Feedback",
   "steps": [
     "page.What-tell-us-about",
