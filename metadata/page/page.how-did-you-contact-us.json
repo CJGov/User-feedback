@@ -66,7 +66,11 @@
     }
   ],
   "enableSteps": true,
-  "showSteps": false,
+  "show": false,
+  "showSteps": {
+    "identifier": "auto_name__4",
+    "operator": "defined"
+  },
   "steps": [
     "page.tell-us-about-your-call",
     "page.tell-us-about-your-visit",
