@@ -5243,7 +5243,7 @@
           "value": "delete"
         }
       ],
-      "label": "Court or tribunal you were in contact with",
+      "label": "Which part of HMCTS were you in contact with?",
       "label:cy": "Y llys neu'r tribiwnlys yr ydych yn gwneud cwyn amdano",
       "name": "complaint_location"
     },
@@ -5254,7 +5254,7 @@
         {
           "_id": "page.court-or-tribunal--fieldset--details",
           "_type": "details",
-          "html": "If you can't remember the court or tribunal name, or your feedback is something general about HMCTS, you can give feedback in person or on the phone.  Please use [\"Find a court or tribunal\"](https://courttribunalfinder.service.gov.uk/search/) to find out their information. ",
+          "html": "If you cannot remember which part of HMCTS you were in contact with, or your feedback in person or on the phone.  Please use [\"Find a court or tribunal\"](https://courttribunalfinder.service.gov.uk/search/) to find out their information. ",
           "summary": "Can't remember"
         }
       ]

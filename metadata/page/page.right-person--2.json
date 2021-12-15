@@ -5,7 +5,7 @@
     {
       "_id": "page.right-person--2--text.auto_name__15",
       "_type": "text",
-      "hint": "If you can remember the name of the person you want to praise, tell us here: (optional)",
+      "hint": "If you can remember the name of the person you want to praise, please tell us here: (optional)",
       "label": "We'd like to pass on your feedback to the right person.",
       "name": "auto_name__15",
       "validation": {

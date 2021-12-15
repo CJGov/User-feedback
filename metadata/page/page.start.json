@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "Tell us what we did well\r\n\r\nWe want to know about your experience with HMCTS.\r\n\r\nYour feedback will not affect your case.\r\n\r\nWe'll not respond to you but we'll pass on your thanks to our colleagues.\r\n",
+  "body": "Tell us what we did well\r\n\r\nWe want to know about your experience with HMCTS.\r\n\r\nYour feedback will not affect your case.\r\n\r\nWe will not write back to you but we'll pass on your thanks to our colleagues.\r\n",
   "heading": "User Feedback",
   "steps": [
     "page.What-tell-us-about",

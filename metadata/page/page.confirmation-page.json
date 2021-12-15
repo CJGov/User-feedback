@@ -1,7 +1,7 @@
 {
   "_id": "page.confirmation-page",
   "_type": "page.confirmation",
-  "body": "We'll not write back to you but we'll share your thanks with our staff.\r\n\r\nHMCTS",
+  "body": "We will not write back to you but we'll share your thanks with our staff.\r\n\r\nHMCTS",
   "heading": "Thank you",
   "lede": "for your feedback",
   "url": "confirmation-page"
