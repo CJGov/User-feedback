@@ -5254,7 +5254,7 @@
         {
           "_id": "page.court-or-tribunal--fieldset--details",
           "_type": "details",
-          "html": "If you cannot remember which part of HMCTS you were in contact with, or your feedback in person or on the phone.  Please use [\"Find a court or tribunal\"](https://courttribunalfinder.service.gov.uk/search/) to find out their information. ",
+          "html": "If you cannot remember which part of HMCTS you were in contact with.  Please use [\"Find a court or tribunal\"](https://courttribunalfinder.service.gov.uk/search/) to find out their information. ",
           "summary": "Can't remember"
         }
       ]
