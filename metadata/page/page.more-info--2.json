@@ -5,8 +5,8 @@
     {
       "_id": "page.more-info--2--textarea.auto_name__17",
       "_type": "textarea",
-      "hint": "Give as much detail as you can, including dates if you know them",
-      "label": "Please give us your feedback",
+      "hint": "Please give as much details as possible including dates and colleagues names (if known) so we can pass on your thanks",
+      "label": "Tell us what we did well",
       "name": "auto_name__17"
     }
   ],

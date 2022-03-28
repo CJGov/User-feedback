@@ -2,16 +2,13 @@
   "_id": "page.start",
   "_type": "page.start",
   "body": "Tell us what we did well\r\n\r\nWe want to know about your experience with HMCTS.\r\n\r\nYour feedback will not affect your case.\r\n\r\nWe will not write back to you but we'll pass on your thanks to our colleagues.\r\n",
-  "heading": "User Feedback",
+  "heading": "Say thank you",
   "steps": [
     "page.What-tell-us-about",
     "page.what-tell-us-about_Start-Comment",
     "page.Start-Complaint",
     "page.court-or-tribunal",
-    "page.what-do-you-want-to-tell-us",
-    "page.how-did-you-contact-us",
     "page.more-info--2",
-    "page.right-person--2",
     "page.check-yor-answers",
     "page.confirmation-page"
   ],
