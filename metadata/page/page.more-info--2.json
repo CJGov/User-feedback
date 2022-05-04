@@ -7,7 +7,7 @@
       "_type": "textarea",
       "hint": "Please give as much detail as possible including dates and colleagues names (if known) so we can pass on your thanks.",
       "label": "Tell us what we did well",
-      "name": "auto_name__17"
+      "name": "feedback_details"
     }
   ],
   "url": "your-feedback"
