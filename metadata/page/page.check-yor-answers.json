@@ -3,6 +3,8 @@
   "_type": "page.summary",
   "actionType": "confirm",
   "sendBody": "To send this feedback please click the button below",
+  "sendBody:cy": "I anfon yr adborth hwn, cliciwch y botwm isod",
   "sendHeading": "Send us your thanks",
+  "sendHeading:cy": "Anfonwch eich diolch atom",
   "url": "check-yor-answers"
 }

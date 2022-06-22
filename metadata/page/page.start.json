@@ -1,12 +1,11 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "Tell us what we did well\r\n\r\nWe want to know about your experience with HMCTS.\r\n\r\nYour feedback will not affect your case.\r\n\r\nWe will not write back to you but we'll pass on your thanks to our colleagues.\r\n",
+  "body": "Tell us what we did well\r\n\r\nWe want to know about your experience with HMCTS.\r\n\r\nYour feedback will not affect your case.\r\n\r\nWe will not write back to you but we'll pass on your thanks to our colleagues.\r\n\r\nThis online form is also available in [Welsh (Cymraeg)](https://say-thank-you-form.form.service.justice.gov.uk/cy).",
+  "body:cy": "Dywedwch wrthym beth wnaethon ni’n dda\r\n\r\nRydym eisiau gwybod am eich profiad gyda GLlTEM.\r\n\r\nNi fydd eich adborth yn effeithio ar eich achos.\r\n\r\nNi fyddwn yn ysgrifennu’n ôl atoch ond byddwn yn anfon eich diolch ymlaen i’n cydweithwyr.\r\n\r\n",
   "heading": "Say thank you",
+  "heading:cy": "Dweud Diolch",
   "steps": [
-    "page.What-tell-us-about",
-    "page.what-tell-us-about_Start-Comment",
-    "page.Start-Complaint",
     "page.court-or-tribunal",
     "page.more-info--2",
     "page.check-yor-answers",

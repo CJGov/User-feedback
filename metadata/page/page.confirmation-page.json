@@ -2,7 +2,9 @@
   "_id": "page.confirmation-page",
   "_type": "page.confirmation",
   "body": "We will not write back to you but we'll share your thanks with our staff.\r\n\r\nHMCTS",
+  "body:cy": "Ni fyddwn yn ysgrifennu'n ôl atoch ond byddwn yn rhannu eich diolch gyda'n staff.\r\n\r\nHMCTS",
   "heading": "Thank you",
+  "heading:cy": "Diolch",
   "lede": "",
   "url": "confirmation-page"
 }

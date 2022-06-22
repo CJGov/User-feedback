@@ -2,5 +2,10 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
-  "name": "Feedback Webform"
+  "languages": [
+    "en",
+    "cy"
+  ],
+  "name": "Feedback Webform",
+  "name:cy": "Dweud Diolch"
 }
