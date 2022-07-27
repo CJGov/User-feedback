@@ -11,6 +11,7 @@
       "_id": "page.court-or-tribunal--autocomplete.auto_name__22",
       "_type": "autocomplete",
       "hint": "For example, Barnet County Court",
+      "hint:cy": "Er enghraifft, Llys Sirol Barnet",
       "items": [
         {
           "$component": true,
@@ -5255,7 +5256,9 @@
           "_id": "page.court-or-tribunal--fieldset--details",
           "_type": "details",
           "html": "If you cannot remember which part of HMCTS you were in contact with,  please use [\"Find a court or tribunal\"](https://courttribunalfinder.service.gov.uk/search/) to find out their information. ",
-          "summary": "Can't remember"
+          "html:cy": "Os na allwch gofio pa ran o GLITEM oeddech chi mewn cyslltiad â hi, defnyddiwch y gwasanaeth [\"Chwilio am lys neu dribiwnlys\"](https://www.find-court-tribunal.service.gov.uk/search-option?lng=cy) i ddod o hyd i'r wybodaeth angenrheidiol.",
+          "summary": "Can't remember",
+          "summary:cy": "Ddim yn cofio"
         }
       ]
     }
