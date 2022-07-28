@@ -1,8 +1,9 @@
 {
   "_id": "page.check-yor-answers",
-  "_id:cy": "Gwiriwch eich atebion",
   "_type": "page.summary",
   "actionType": "confirm",
+  "heading": "Check your answers",
+  "heading:cy": "Gwiriwch eich atebion",
   "sendBody": "To send this feedback please click the button below",
   "sendBody:cy": "I anfon yr adborth hwn, cliciwch y botwm isod",
   "sendHeading": "Send us your thanks",

@@ -5245,7 +5245,7 @@
         }
       ],
       "label": "Which part of HMCTS were you in contact with?",
-      "label:cy": "Y llys neu'r tribiwnlys yr ydych yn gwneud cwyn amdano",
+      "label:cy": "Pa ran o GLlTEM oeddech chi mewn cysylltiad â hi?",
       "name": "contact_location"
     },
     {

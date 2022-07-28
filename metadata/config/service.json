@@ -7,5 +7,6 @@
     "cy"
   ],
   "name": "Feedback Webform",
-  "name:cy": "Dweud Diolch"
+  "name:cy": "Dweud Diolch",
+  "phase": "none"
 }
