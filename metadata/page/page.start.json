@@ -6,10 +6,7 @@
   "heading": "Say thank you",
   "heading:cy": "Dweud Diolch",
   "steps": [
-    "page.court-or-tribunal",
-    "page.more-info--2",
-    "page.check-yor-answers",
-    "page.confirmation-page"
+
   ],
   "url": "/"
 }
